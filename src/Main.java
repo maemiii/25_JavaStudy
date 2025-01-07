@@ -15,11 +15,10 @@ public class Main {
         char ch = 'A';
         String str = "Hello world";
         System.out.println(ch);
-        System.out.println((int)ch);
-        System.out.println((char)65);
+        System.out.println((int) ch);
+        System.out.println((char) 65);
         for (char i = 'A'; i <= 'Z'; i++) {
             System.out.printf("%c(%d), ", i, (int) i);
-
         }
     }
 }
