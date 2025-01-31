@@ -1,5 +1,5 @@
 package day03;
-
+//
 public class ClassesMain {
     private int hi = 30;
     private static int bye = 50;
